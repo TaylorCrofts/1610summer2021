@@ -1,0 +1,5 @@
+Git hub is one of the largest developer communities in the world.
+It allows people to create, share, and develop software together through the use of its repositories!
+People are able to see the different versions of edits that have been made by each member and see the
+timeline in which the edits were made. So in a sense a Git is a type of software that documents Changes
+with the purpose of allowing you to backtrack easily! like a code spread sheet.
